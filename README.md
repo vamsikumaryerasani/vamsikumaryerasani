@@ -8,16 +8,39 @@ Master's student in Information Technology at TH OWL, currently working on auton
 
 - Working on ROS2-based Autonomous Guided Vehicle (AGV) software and Gazebo simulation environments at Fraunhofer IEM
 - Researching real-time semantic segmentation (DDRNet, SCTNet) for railway perception under degraded visual conditions (fog, rain, snow)
-- Master's thesis: simulation-based validation of GNSS-denied localization algorithms for UAVs, using Unreal Engine 5 and ROS2
+- Master's thesis: object detection and tracking using LiDAR-camera fusion
 - Co-author, IEEE ETFA 2026 — "Mixed Reality Assisted Commissioning and Readiness Validation for Deterministic TSN Networks"
 
-## Technical Focus
+## Tech Stack
 
-**AI / ML / Computer Vision** — Python, PyTorch, Deep Learning, CNNs, Semantic Segmentation, Model Evaluation (mIoU), NLP
+### Languages
 
-**Robotics & Simulation** — ROS2, Gazebo, SLAM, Unreal Engine 5
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Software & Tools** — C++, Java, SQL, Docker, Git, Linux
+### AI & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0F9D58?style=for-the-badge)
+![Semantic Segmentation](https://img.shields.io/badge/Semantic%20Segmentation-C2185B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge)
+
+### Robotics & Simulation
+
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-black?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM-FF8C00?style=for-the-badge)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Featured Projects
 
@@ -40,7 +63,21 @@ Developed Mixed Reality applications (Unity, HoloLens 2, OpenXR, MRTK) for indus
 
 ## Research Interests
 
-Robustness of perception models under domain shift and environmental degradation; vision-based localization for GNSS-denied navigation; simulation-based validation of autonomous systems.
+Robustness of perception models under domain shift and environmental degradation; multi-modal (LiDAR-camera) sensor fusion for object detection and tracking; simulation-based validation of autonomous systems.
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsikumaryerasani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-090C14?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vamsikumaryerasani.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsikumaryerasani@gmail.com)
+
+## GitHub Stats
+
+![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsikumaryerasani&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsikumaryerasani&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikumaryerasani&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contact
 
