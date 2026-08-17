@@ -73,11 +73,11 @@ Robustness of perception models under domain shift and environmental degradation
 
 ## GitHub Stats
 
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsikumaryerasani&show_icons=true&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/vamsikumaryerasani?style=for-the-badge&logo=github&color=5B9CF6&labelColor=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsikumaryerasani&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=vamsikumaryerasani&style=for-the-badge&color=9B8CFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikumaryerasani&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ## Contact
 
